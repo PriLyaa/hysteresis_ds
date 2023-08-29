@@ -29,7 +29,7 @@ while True:
 
         # Output the average intensity
         # Define the folder path and file name
-        folder_path = "/Users/User/PycharmProjects/ImageToIntencity/data_avg_intensities"
+        folder_path = "/Users/User/Desktop/Lab17/Git_Projects"
         file_name = "signal.dat"
 
         # Save the array to a .dat file
